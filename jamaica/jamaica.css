@@ -1,0 +1,39 @@
+.jamaica-line{
+    position:absolute;
+}
+.jamaica-background{
+    background:#00ff00;
+}
+.jamaica-yellow-triangle-left {
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-left: 200px solid #ffff00;
+    border-bottom: 100px solid transparent;
+}
+.jamaica-yellow-triangle-right{
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-right: 200px solid #ffff00;
+    border-bottom: 100px solid transparent;
+    left:100px;
+}
+.jamaica-black-triangle-left{
+    width: 0;
+    height: 0;
+    border-top: 75px solid transparent;
+    border-left: 130px solid #000000;
+    border-bottom: 75px solid transparent;
+    top: 25px;
+}
+.jamaica-black-triangle-right{
+    width: 0;
+    height: 0;
+    border-top: 75px solid transparent;
+    border-right: 130px solid #000000;
+    border-bottom: 75px solid transparent;
+    left:170px;
+    top:25px;
+}
+

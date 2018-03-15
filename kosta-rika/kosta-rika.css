@@ -1,0 +1,28 @@
+.kosta-rika-line{
+    position: absolute;
+    width: 100%;
+}
+.kosta-rika-blue-top{
+    background: #0000ff;
+    height:15%;
+}
+.kosta-rika-white-top{
+    background: #ffffff;
+    height: 18%;
+    top: 15%;
+}
+.kosta-rika-red-center{
+    background: #ff0000;
+    height:34%;
+    top: 33%;
+}
+.kosta-rika-white-bottom{
+    background: #ffffff;
+    height:18%;
+    top:67%;
+}
+.kosta-rika-blue-bottom{
+    background: #0000ff;
+    height:15%;
+    top:85%;
+}

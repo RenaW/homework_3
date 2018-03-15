@@ -1,0 +1,12 @@
+.japan-background{
+    background: #ffffff;
+}
+.japan-circle{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: #BC002D;
+    position: relative;
+    left: 90px;
+    top: 40px;
+}

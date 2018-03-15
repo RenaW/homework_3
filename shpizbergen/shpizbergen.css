@@ -1,0 +1,30 @@
+.shpiz-line{
+    position: absolute;
+}
+.shpiz-background{
+    background: #ff0000;
+}
+.shpiz-horizontal-white-line{
+    background: #ffffff;
+    height:30%;
+    top:35%;
+    width:100%;
+}
+.shpiz-vertical-white-line{
+    background: #ffffff;
+    height:100%;
+    width:20%;
+    left:15%;
+}
+.shpiz-horizontal-blue-line{
+    background:#0000ff;
+    height:15%;
+    width:100%;
+    top:42.5%;
+}
+.shpiz-vertical-blue-line{
+    background:#0000ff;
+    height:100%;
+    width:10%;
+    left:20%;
+}

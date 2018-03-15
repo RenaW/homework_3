@@ -1,0 +1,26 @@
+﻿@import url(peru/peru.css);
+@import url(japan/japan.css);
+@import url(kosta-rika/kosta-rika.css);
+@import url(shpizbergen/shpizbergen.css);
+@import url(jamaica/jamaica.css);
+
+.flag-shape {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin:10px;
+}
+
+.country-name {
+    position: absolute;
+    display: none;
+    top: 100%;
+}
+
+.flag-shape:hover .country-name {
+    display: block;
+}
+
+
