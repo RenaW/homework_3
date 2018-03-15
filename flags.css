@@ -10,7 +10,7 @@
     width: 300px;
     height: 200px;
     border: 1px solid #ccc;
-    margin:10px;
+    margin:20px;
 }
 
 .country-name {
@@ -23,4 +23,6 @@
     display: block;
 }
 
-
+.flag-shape:hover .before-hover{
+    opacity:0;
+}
